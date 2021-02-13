@@ -1,0 +1,27 @@
+{
+  "name": "milkbot",
+  "version": "1.0.0",
+  "description": "Milk bot made for the Max & Millie discord hangout server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmetv15/MilkBot.git"
+  },
+  "keywords": [
+    "milk",
+    "discord",
+    "bot",
+    "discord-bot",
+    "hangout",
+    "discord-server"
+  ],
+  "author": "Emmet_v15",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Emmetv15/MilkBot/issues"
+  },
+  "homepage": "https://github.com/Emmetv15/MilkBot#readme"
+}
